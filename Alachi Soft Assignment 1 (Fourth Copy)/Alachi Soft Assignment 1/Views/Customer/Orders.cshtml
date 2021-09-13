@@ -1,0 +1,62 @@
+﻿@*@model  IEnumerable<DBModels.Orders>*@
+@model DBModels.CustomerOrderProduct
+
+<form method="post" action="/Customer/PlaceOrder" onsubmit="return validate()">
+    <select name="ProductId" id="SelectMenu">
+        @foreach (var item in Model.products__)
+        {
+            <option value=@Html.DisplayFor(modelItem => item.ProductId)>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </option>
+        }
+
+    </select>
+<table class="table">
+    <tr>
+        <th>
+            Order ID)
+        </th>
+        <th>
+            Customer ID)
+        </th>
+        <th>
+            Employee ID)
+        </th>
+        <th>
+            Order Date
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model.orders__)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderId)
+            </td>
+            <td>
+                <input type="text" value=@Html.DisplayFor(modelItem => item.CustomerId) placeholder=@Html.DisplayFor(modelItem => item.CustomerId) readonly name="CustomerId" style="border:0px;"/>
+                
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderDate)
+            </td>
+
+        </tr>
+    }
+
+</table>
+    <button type="submit">
+        Place Order
+    </button>
+</form>
+<script>
+    function validate() {
+        alert("Order Placed Successfully");
+        return true;
+    }
+</script>

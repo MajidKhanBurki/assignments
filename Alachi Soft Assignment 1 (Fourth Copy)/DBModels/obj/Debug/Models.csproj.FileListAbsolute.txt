@@ -1,0 +1,18 @@
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBModels\bin\Debug\DBModels.dll
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBModels\bin\Debug\DBModels.pdb
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBModels\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBModels\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBModels\obj\Debug\DBModels.dll
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBModels\obj\Debug\DBModels.pdb
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 1 (Fourth Copy)\DBModels\bin\Debug\DBModels.dll
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 1 (Fourth Copy)\DBModels\bin\Debug\DBModels.pdb
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 1 (Fourth Copy)\DBModels\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 1 (Fourth Copy)\DBModels\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 1 (Fourth Copy)\DBModels\obj\Debug\DBModels.dll
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 1 (Fourth Copy)\DBModels\obj\Debug\DBModels.pdb
+C:\Users\kingb\Documents\Alachi Soft\Assignments\First Assignment\Alachi Soft Assignment 1 (Fourth Copy)\DBModels\bin\Debug\DBModels.dll
+C:\Users\kingb\Documents\Alachi Soft\Assignments\First Assignment\Alachi Soft Assignment 1 (Fourth Copy)\DBModels\bin\Debug\DBModels.pdb
+C:\Users\kingb\Documents\Alachi Soft\Assignments\First Assignment\Alachi Soft Assignment 1 (Fourth Copy)\DBModels\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\kingb\Documents\Alachi Soft\Assignments\First Assignment\Alachi Soft Assignment 1 (Fourth Copy)\DBModels\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\kingb\Documents\Alachi Soft\Assignments\First Assignment\Alachi Soft Assignment 1 (Fourth Copy)\DBModels\obj\Debug\DBModels.dll
+C:\Users\kingb\Documents\Alachi Soft\Assignments\First Assignment\Alachi Soft Assignment 1 (Fourth Copy)\DBModels\obj\Debug\DBModels.pdb

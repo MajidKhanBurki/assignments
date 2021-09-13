@@ -1,0 +1,52 @@
+﻿<h3>
+    Add Customer
+</h3>
+<div class="form-horizontal">
+    <form method="post" action="/Customer/Create" onsubmit="return validate();">
+        <label class = "control-label col-md-2">
+            Customer ID
+        </label>
+        <input type="text" name="CustomerId" id="CustomerID" required class = "form-control" />
+      
+        <label class = "control-label col-md-2">
+            Company Name
+        </label>
+        <input type="text" name="CompanyName" required class = "form-control" />
+   
+        <label class = "control-label col-md-2">
+            Contact Name
+        </label>
+        <input type="text" name="ContactName" required class = "form-control" />
+
+       
+        <input type="submit" value="Create" />
+    </form>
+</div>
+
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+<script>
+    function validate() {
+        var customerId = document.getElementById("CustomerID").value;
+        if (customerId.length != 5) {
+            alert("Customer ID length must exactly be 5 characters");
+            
+            return false;
+        }
+        //else if (!(customerId.match(/^[A-Z]*$/))) {
+        //    alert("Customer ID must contain all capital alphabets");
+          
+        //    return false;
+        //}
+        else {
+            alert("Customer Added successfully");
+            return true;
+        }
+    }
+</script>

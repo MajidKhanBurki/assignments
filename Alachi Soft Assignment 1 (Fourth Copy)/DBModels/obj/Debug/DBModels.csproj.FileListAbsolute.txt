@@ -1,0 +1,6 @@
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBModels\obj\Debug\DBModels.csprojAssemblyReference.cache
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBModels\obj\Debug\DBModels.csproj.CoreCompileInputs.cache
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBModels\bin\Debug\DBModels.dll
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBModels\bin\Debug\DBModels.pdb
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBModels\obj\Debug\DBModels.dll
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBModels\obj\Debug\DBModels.pdb

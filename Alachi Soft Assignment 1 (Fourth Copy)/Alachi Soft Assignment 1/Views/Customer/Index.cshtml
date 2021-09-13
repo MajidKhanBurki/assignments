@@ -1,0 +1,39 @@
+﻿@*@model IEnumerable<Alachi_Soft_Assignment_1.Models.Customer>*@
+@model IEnumerable<DBModels.Customer>
+
+@Html.ActionLink("Create", "Create")
+
+<table class="table">
+    <tr>
+        <th>
+           Customer ID
+        </th>
+        <th>
+            Company Name
+        </th>
+        <th>
+           Contact Name
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr> <td>
+        @Html.DisplayFor(modelItem => item.CustomerId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CompanyName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ContactName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.CustomerId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.CustomerId }, new {onClick = "return confirm('Are you sure you want to delete this record? ');" })|
+            @Html.ActionLink("Orders", "Orders", new {id=item.CustomerId })|
+           
+        </td>
+    </tr>
+}
+
+</table>

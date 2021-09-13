@@ -1,0 +1,36 @@
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBHandlers\bin\Debug\DBHandlers.dll
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBHandlers\bin\Debug\DBHandlers.pdb
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBHandlers\bin\Debug\DBModels.dll
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBHandlers\bin\Debug\DBModels.pdb
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBHandlers\obj\Debug\DBHandlers.csprojAssemblyReference.cache
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBHandlers\obj\Debug\DBHandlers.csproj.CoreCompileInputs.cache
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBHandlers\obj\Debug\DBHandlers.csproj.CopyComplete
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBHandlers\obj\Debug\DBHandlers.dll
+C:\Users\majid_khan\source\repos\Alachi Soft Assignment 1\DBHandlers\obj\Debug\DBHandlers.pdb
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\bin\Debug\DBHandlers.dll
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\bin\Debug\DBHandlers.pdb
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\bin\Debug\DBModels.dll
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\bin\Debug\DBModels.pdb
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\obj\Debug\DBHandlers.csprojAssemblyReference.cache
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\obj\Debug\DBHandlers.csproj.CoreCompileInputs.cache
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\obj\Debug\DBHandlers.csproj.CopyComplete
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\obj\Debug\DBHandlers.dll
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\obj\Debug\DBHandlers.pdb
+C:\Users\kingb\Documents\Alachi Soft\Assignments\First Assignment\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\bin\Debug\DBHandlers.dll
+C:\Users\kingb\Documents\Alachi Soft\Assignments\First Assignment\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\bin\Debug\DBHandlers.pdb
+C:\Users\kingb\Documents\Alachi Soft\Assignments\First Assignment\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\bin\Debug\DBModels.dll
+C:\Users\kingb\Documents\Alachi Soft\Assignments\First Assignment\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\bin\Debug\DBModels.pdb
+C:\Users\kingb\Documents\Alachi Soft\Assignments\First Assignment\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\obj\Debug\DBHandlers.csprojAssemblyReference.cache
+C:\Users\kingb\Documents\Alachi Soft\Assignments\First Assignment\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\obj\Debug\DBHandlers.csproj.CoreCompileInputs.cache
+C:\Users\kingb\Documents\Alachi Soft\Assignments\First Assignment\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\obj\Debug\DBHandlers.csproj.CopyComplete
+C:\Users\kingb\Documents\Alachi Soft\Assignments\First Assignment\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\obj\Debug\DBHandlers.dll
+C:\Users\kingb\Documents\Alachi Soft\Assignments\First Assignment\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\obj\Debug\DBHandlers.pdb
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 01\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\bin\Debug\DBHandlers.dll
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 01\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\bin\Debug\DBHandlers.pdb
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 01\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\bin\Debug\DBModels.dll
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 01\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\bin\Debug\DBModels.pdb
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 01\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\obj\Debug\DBHandlers.csprojAssemblyReference.cache
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 01\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\obj\Debug\DBHandlers.csproj.CoreCompileInputs.cache
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 01\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\obj\Debug\DBHandlers.csproj.CopyComplete
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 01\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\obj\Debug\DBHandlers.dll
+C:\Users\majid_khan\Desktop\Alachi Soft Assignment 01\Alachi Soft Assignment 1 (Fourth Copy)\DBHandlers\obj\Debug\DBHandlers.pdb
